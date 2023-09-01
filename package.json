@@ -1,0 +1,20 @@
+{
+  "name": "geheimarchive",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel geheimarchive.js",
+    "build": "rm -rf dist && parcel build geheimarchive.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mithril": "^2.2.2",
+    "tagl-mithril": "^1.2.2"
+  },
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
