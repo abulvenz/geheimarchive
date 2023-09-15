@@ -7,6 +7,9 @@
     "48": "icons/postillon.svg",
     "96": "icons/postillon.svg"
   },
+  "screenshots": {
+    "1280": "screenshots/screenshot.png"
+  },
   "permissions": ["contextMenus", "activeTab"],
   "content_scripts": [
     {
